@@ -7,8 +7,9 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/Lxxsss"
+  mail: "mailto:mrlenon@sina.com"
+  rss: "/atom.xml"
   # weibo: "#"
-  # rss: "#"
   # zhihu: "#"
   #qq: "#"
   #weixin: "#"
@@ -17,7 +18,6 @@ subnav:
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  mail: "mailto:mrlenon@sina.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
