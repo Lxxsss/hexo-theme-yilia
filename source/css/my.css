@@ -79,3 +79,13 @@ textarea:-ms-input-placeholder {
 .gitment-container .gitment-comments-container {
   font-size: 12px;
 }
+
+.article-title {
+  color: #000000;
+}
+
+.article-title:hover {
+  color: #0088cc;
+  cursor: pointer;
+  text-decoration: underline;
+}
